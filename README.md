@@ -114,10 +114,10 @@ For full usage instructions, run the script with the `-h` or `--help` flag:
             <a target="_blank" href="https://github.com/mlrun/demo-call-center/blob/main/">
                 <img src="./assets/images/GitHub-Mark-32px.png"/><br>View on GitHub</a>
         </td>
-        <td>This demo showcases how to use LLMs to turn audio files, from call center conversations between 
-		customers and agents, into valuable data &mdash; all in a single workflow orchestrated by MLRun.
-        MLRun automates the entire workflow, auto-scales resources as needed, and automatically logs and 
-		parses values between the different workflow steps.		
+        <td>This demo showcases how to use LLMs to turn audio files from call center conversations, between 
+	customers and agents, into valuable data &mdash; all in a single workflow orchestrated by MLRun.
+    MLRun automates the entire workflow, auto-scales resources as needed, and automatically logs and 
+	parses values between the different workflow steps.
         </td>
     </tr>	
 	<tr>
